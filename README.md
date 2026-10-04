@@ -5,7 +5,5 @@ every location
 
 
 any issue send mail here 
-       |    |   |
-       |    |   |
-       v    v   v
+-->
 frozen-river821@nimbusreach.info
